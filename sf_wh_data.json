@@ -1,51 +1,51 @@
 [
   {
-    "Size": "X-Small",
+    "Size": "x-small",
     "C_HR": 1,
     "C_SEC": 0.0003
   },
   {
-    "Size": "Small",
+    "Size": "small",
     "C_HR": 2,
     "C_SEC": 0.0006
   },
   {
-    "Size": "Medium",
+    "Size": "medium",
     "C_HR": 4,
     "C_SEC": 0.0011
   },
   {
-    "Size": "Large",
+    "Size": "large",
     "C_HR": 8,
     "C_SEC": 0.0022
   },
   {
-    "Size": "X-Large",
+    "Size": "x-large",
     "C_HR": 16,
     "C_SEC": 0.0044
   },
   {
-    "Size": "2X-Large",
+    "Size": "2x-large",
     "C_HR": 32,
     "C_SEC": 0.0089
   },
   {
-    "Size": "3X-Large",
+    "Size": "3x-large",
     "C_HR": 64,
     "C_SEC": 0.0178
   },
   {
-    "Size": "4X-Large",
+    "Size": "4x-large",
     "C_HR": 128,
     "C_SEC": 0.0356
   },
   {
-    "Size": "5X-Large",
+    "Size": "5x-large",
     "C_HR": 256,
     "C_SEC": 0.0711
   },
   {
-    "Size": "6X-Large",
+    "Size": "6x-large",
     "C_HR": 512,
     "C_SEC": 0.1422
   }
