@@ -3,7 +3,8 @@ This is just a simple python script to help with making the decision of what war
 in Snowflake. Increasing warehouse sizes will increase the execution speed but also increase the credits burned.
 Not all queries are affected by warehouse size.
 
-You need your current warehouse size and time to run as well as your proposed warehouse size and time
+You need your current warehouse size and time to run as well as your proposed warehouse size and time.
+Data is in sf_wh_data.json
 """
 import json
 import time
